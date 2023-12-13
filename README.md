@@ -80,7 +80,7 @@ A possible direction we were hoping to take in the future with the model we crea
 ### 4.2 Implications of the work 
 The project aimed to identify Pokemon names and types using color images, recognize Pokemon from blacked-out images and determine types based on visual cues. Using convolutional neural networks (CNNs) and AI techniques, the project succeeded notably in identifying Pokemon names and types from color images. However, limitations arose in recognizing Pokemon solely from blacked-out images which can be seen through the accuracy we received from testing where most of the Pokemon in the predictions were wrong giving us an accuracy of around 35%. Even though the types of the Pokemon were lower than half, our original goal was to have one of the 2 types to be correct. This allowed the model to have some leeway, so our actual accuracy was a little bit higher.While the achieved accuracy indicated moderate success for the blacked-out images, the accuracy from the colored images and identifying the types had great success. Most likely because these images had more qualities for the convolution neural network to use, such as texture and color. In conclusion, given the predictions made by the model, we can be sure that it isn’t simply choosing random actions but rather making logical decisions meaning we achieved desired goals, since our accuracies were above 1 percent (1/amount of classes, we had 63 pokemon).
 
-
+Justin, Mir and Noah
 
 
 
